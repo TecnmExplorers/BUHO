@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #9ed49a;
+  color: #ff9800;
   text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #97d193;
+  background: #ff9800;
   color: #fff;
 }
 .back-to-top.active {
@@ -1015,7 +1015,7 @@ section {
   height: 40px;
   opacity: 0;
   transition: bottom ease-in-out 0.4s;
-  background: rgba(124, 197, 118, 0.8);
+  background: #ff9800;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1492,7 +1492,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #5ab652;
+  background: #ff9800;
 }
 #footer .footer-top .social-links {
   margin-top: 30px;
